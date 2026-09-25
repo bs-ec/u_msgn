@@ -2,6 +2,16 @@
   "v": 2,
   "items": [
     {
+      "maWeb": 26092502,
+      "android": "1.0.0+79",
+      "ios": "1.0.0+82",
+      "url": "https://github.com/bs-ec/u_msgn/releases/download/r26092502/p.bin",
+      "sha256": "21216f16dc6621fe3ce07bcf40e9cc81a59b9dfb4451fb5f3bad04a5984b299d",
+      "sig": "Esy+eBdD95Su1L0MfNkEqyLms6Wh0E8BmmBV+ZUoq9mQNkWbGx3FTdhpqwpVfEGqA7+8VzGqL8UHGslaX3sn+ZyqcrFgCnJ6rz9Ow850xIPw9y8v6GyEKlpdG0F1VH7LeUBp67lpEvesQrlpKslBHDPgybi6xqf846V2L/mHxPXLGvZawp5V7wsu++yliz2amrAInuSl/88LO2UuCXfg/LNC+8pv/D3TM2YAWScVIwGJRJl+xbl18uCs+/nkyoU9VEMYaO9pYN9hikpccHhH3Y9DI0pAKaAuH8JgFeucFJq32qpW12uIlgZeMEOblufNUd4JqKqJGvt2i6GEy2Jl0w==",
+      "batBuoc": true,
+      "ghiChu": "Cải thiện hiệu năng, sửa lỗi"
+    },
+    {
       "maWeb": 26092501,
       "android": "1.0.0+79",
       "ios": "1.0.0+82",
