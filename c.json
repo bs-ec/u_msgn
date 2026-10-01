@@ -2,6 +2,26 @@
   "v": 2,
   "items": [
     {
+      "maWeb": 26100101,
+      "android": "1.0.0+85",
+      "ios": null,
+      "url": "https://github.com/bs-ec/u_msgn/releases/download/r26100101/p.bin",
+      "sha256": "4436607a342b7237f40facda6294d00f2777b3e1df91f52f5d9ceffb16606684",
+      "sig": "p9fAb7UtlPcIPVzdsMfEi6Lh3IxIB+g9YbQWNy2NRmH2a4s23Qu5RwYY+vkddHnkHK4ySgRN3nN93x1H3PQbEhRyrLQ6OwUciU6CizA+8jPvh2A90e/uZ5C6aPn/SouDYKzdjmIVR+FRbThCgNBYd7Bxlix0jufulqZF/XyGVndsMpLtBR+tD20uxAp1pJVOrVNJyuCWlogJmEbTXcx+dDm1UytiHrAOk8oaYfWpAIAaeo8LmkSg23dKw0w1MCjerp1EVcmhTUBzsG38T5p3zBj1wlnIkwmgxisQMxy9wIuKuUGvQuDkuSHbq1UBVYABRt7KPINojSiP85pI4ZJhXQ==",
+      "batBuoc": false,
+      "ghiChu": "Cải thiện hiệu năng, sửa lỗi"
+    },
+    {
+      "maWeb": 26100101,
+      "android": null,
+      "ios": "1.0.0+89",
+      "url": "https://github.com/bs-ec/u_msgn/releases/download/r26100101/p.bin",
+      "sha256": "4436607a342b7237f40facda6294d00f2777b3e1df91f52f5d9ceffb16606684",
+      "sig": "p9fAb7UtlPcIPVzdsMfEi6Lh3IxIB+g9YbQWNy2NRmH2a4s23Qu5RwYY+vkddHnkHK4ySgRN3nN93x1H3PQbEhRyrLQ6OwUciU6CizA+8jPvh2A90e/uZ5C6aPn/SouDYKzdjmIVR+FRbThCgNBYd7Bxlix0jufulqZF/XyGVndsMpLtBR+tD20uxAp1pJVOrVNJyuCWlogJmEbTXcx+dDm1UytiHrAOk8oaYfWpAIAaeo8LmkSg23dKw0w1MCjerp1EVcmhTUBzsG38T5p3zBj1wlnIkwmgxisQMxy9wIuKuUGvQuDkuSHbq1UBVYABRt7KPINojSiP85pI4ZJhXQ==",
+      "batBuoc": false,
+      "ghiChu": "Cải thiện hiệu năng, sửa lỗi"
+    },
+    {
       "maWeb": 26092902,
       "android": "1.0.0+85",
       "ios": null,
